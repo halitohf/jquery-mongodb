@@ -25,6 +25,6 @@
     "start": "node ./dist"
   },
   "keywords": [],
-  "author": "",
+  "author": "Raul Isaac",
   "license": "ISC"
 }
